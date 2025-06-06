@@ -21,6 +21,11 @@
 * {
   user-select: none;
 }
+img, div {
+  pointer-events: none; /* opcjonalnie, blokuje interakcje */
+  -webkit-user-drag: none;
+}
+
 
 
 * { box-sizing: border-box; margin: 0; padding: 0; }

@@ -22,7 +22,7 @@
   user-select: none;
 }
 img, div {
-  pointer-events: none; /* opcjonalnie, blokuje interakcje */
+  
   -webkit-user-drag: none;
 }
 

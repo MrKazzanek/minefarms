@@ -18,6 +18,10 @@
         --banner-overlay-start: rgba(246, 248, 250, 0); --banner-overlay-end: rgba(246, 248, 250, 1);
     }
 }
+* {
+  user-select: none;
+}
+
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; height: 100%; }

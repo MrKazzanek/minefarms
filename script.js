@@ -231,3 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
         farmsGrid.innerHTML = `<p>Błąd ładowania danych. Sprawdź konsolę przeglądarki.</p>`;
     }
 });
+
+document.addEventListener("contextmenu", function(e) {
+  e.preventDefault();
+});

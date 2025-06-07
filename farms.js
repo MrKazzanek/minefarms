@@ -114,4 +114,23 @@ const farmsData = [
         }
     ]
 },
+{
+    "id": "test_kazanek",
+    "new": true,
+    "name": "test",
+    "description": "vfefsddwedefefweerffe",
+    "author": "Kazanek",
+    "version": "1.21.5",
+    "edition": "Java & Bedrock",
+    "automation": "Półautomatyczna",
+    "image": "https://i.ibb.co/4dWgjWN/Blady-las-1920x1080.png",
+    "videoUrl": "https://www.youtube.com/embed/cR4qhoMcR7s?si=JNF-6uQ3yoCzxq_z",
+    "info": "testowane",
+    "materials": [
+        {
+            "item": "edefedfer",
+            "amount": "5"
+        }
+    ]
+},
 ];

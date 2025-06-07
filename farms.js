@@ -1,7 +1,7 @@
 const farmsData = [
   {
     "id": "najlepsza_maa_farma_elaza_wattles",
-    "new": true,
+    "new": false,
     "name": "Najlepsza mała farma żelaza",
     "description": "Ta niewielka farma żelaza jest bardzo dobra na początek gry, gdyż jest bardzo wydajna i jednocześnie łatwa do zbudowania.",
     "info": "Najlepiej tą farmę zbudować w miejscu gdzie często przebywasz lub na chunkach spawna. Biom nie ma znaczania, lecz najłatwiej jest wybudować tą farmę na płaskim terenie.",
